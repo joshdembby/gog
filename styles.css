@@ -1,0 +1,21 @@
+.google{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    text-align: center;
+    border: 2px black;
+}
+
+h2{
+    color: red;
+}
+
+
+
+
+.center{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
